@@ -1,0 +1,16 @@
+
+#package file
+*.war
+*.ear
+
+#maven ignore
+target/
+
+#IDEA
+.idea
+
+
+
+
+
+
